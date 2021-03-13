@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_Business_Site/static/css/main.f2860b4e.chunk.css",
+    "main.js": "/React_Business_Site/static/js/main.e637a156.chunk.js",
+    "main.js.map": "/React_Business_Site/static/js/main.e637a156.chunk.js.map",
+    "runtime-main.js": "/React_Business_Site/static/js/runtime-main.7d5af634.js",
+    "runtime-main.js.map": "/React_Business_Site/static/js/runtime-main.7d5af634.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/React_Business_Site/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.57ea88d7.chunk.js": "/React_Business_Site/static/js/2.57ea88d7.chunk.js",
+    "static/js/2.57ea88d7.chunk.js.map": "/React_Business_Site/static/js/2.57ea88d7.chunk.js.map",
+    "index.html": "/React_Business_Site/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/React_Business_Site/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.f2860b4e.chunk.css.map": "/React_Business_Site/static/css/main.f2860b4e.chunk.css.map",
+    "static/js/2.57ea88d7.chunk.js.LICENSE.txt": "/React_Business_Site/static/js/2.57ea88d7.chunk.js.LICENSE.txt",
+    "static/media/img1.f7db38ab.jpg": "/React_Business_Site/static/media/img1.f7db38ab.jpg",
+    "static/media/img2.b54bcb93.jpg": "/React_Business_Site/static/media/img2.b54bcb93.jpg",
+    "static/media/v1.bdddd390.jpg": "/React_Business_Site/static/media/v1.bdddd390.jpg",
+    "static/media/v2.e96cc26a.jpg": "/React_Business_Site/static/media/v2.e96cc26a.jpg",
+    "static/media/v3.98af54dc.jpg": "/React_Business_Site/static/media/v3.98af54dc.jpg",
+    "static/media/v5.8e4c3bf5.jpg": "/React_Business_Site/static/media/v5.8e4c3bf5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d5af634.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.57ea88d7.chunk.js",
+    "static/css/main.f2860b4e.chunk.css",
+    "static/js/main.e637a156.chunk.js"
+  ]
+}
